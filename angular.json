@@ -102,7 +102,7 @@
           "builder": "angular-cli-ghpages:deploy",
           "options": {
             "baseHref": "https://shawnlong636.github.io/angular-tour-of-heroes/",
-            "repo": "https://github.com/shawnlong636/angular-tour-of-heroes",
+            "repo": "https://github.com/shawnlong636/angular-tour-of-heroes.git",
             "name": "shawnlong636",
             "email": "shawnlong636@gmail.com"
           }
