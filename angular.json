@@ -97,8 +97,20 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {
+            "baseHref": "https://shawnlong636.github.io/angular-tour-of-heroes/",
+            "repo": "https://github.com/shawnlong636/angular-tour-of-heroes",
+            "name": "shawnlong636",
+            "email": "shawnlong636@gmail.com"
+          }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "400a6ce7-bfec-4912-b3ce-6ce7b46d2b59"
   }
 }
